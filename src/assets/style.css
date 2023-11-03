@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+body{
+    background: #f0f0f0;
+}
+li{
+    list-style: none;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: #000;
+
+}
+.nav-top{
+    font-size: 14px;
+    color: #666;
+    text-align: right;
+    margin: 20px;
+    margin-right: 200px;
+}
+.nav-top a:hover{
+    color: #40c09b;
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4014874",
+  "name": "china-tea",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1069837",
+      "name": "3.0-搜索",
+      "font_class": "sousuo",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "4767011",
+      "name": "right",
+      "font_class": "right",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "4767012",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "5582327",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "16615976",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    }
+  ]
+}
